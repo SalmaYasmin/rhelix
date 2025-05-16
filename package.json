@@ -2,7 +2,7 @@
   "name": "rhelixweb",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://salmayasmin.github.io/rhelixweb",
+  "homepage": "https://salmayasmin.github.io/rhelix/",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
